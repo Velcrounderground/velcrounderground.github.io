@@ -31,7 +31,7 @@
 
   .display{
     font-family: 'Bebas Neue', sans-serif;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
     line-height: 0.9;
   }
 
@@ -70,7 +70,7 @@
   .beams{ position:absolute; inset:-20%; z-index:1; opacity:0.55; }
   .beam{
     position:absolute; top:50%; left:50%;
-    width: 2px; height: 140vmax;
+    width: 3px; height: 140vmax;
     transform-origin: top center;
     filter: blur(1px);
   }

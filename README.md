@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -238,7 +237,7 @@
   <div class="hero-inner">
     <div class="kicker">Tech House / After Hours</div>
     <h1 class="logo" id="mainLogo">VELCRO<span>UNDERGROUND</span></h1>
-    <p class="tagline">Low ceilings, loud systems, no last call. Built from warehouse floors and 4am basements — this is what sticks when the lights should've come up hours ago.</p>
+    <p class="tagline">Low ceilings, and low standards. Hear the sounds of the subtle velcro humming into your ears, shaking your body.</p>
     <div class="cta-row">
       <a href="#playdates" class="btn solid">See Playdates</a>
       <a href="#contact" class="btn ghost">Book Us</a>
@@ -253,12 +252,12 @@
     <div>
       <h2>Sound from<br>below street level.</h2>
       <p><strong>Velcro Underground</strong> is a tech house project built on rooms nobody advertises — the ones you find out about the night before. Rolling low-end, hypnotic groove, and just enough grit to remind you it's real.</p>
-      <p>No polish for polish's sake. Every set is built to hold a room from first record to sunrise, whether that room holds forty people or four thousand.</p>
+      <p>Every set is built to hold a room from first record to sunrise, whether that room holds forty people or four thousand.</p>
     </div>
     <div class="stat-list">
       <div class="stat"><span class="k">Based</span><span class="v">Underground, Everywhere</span></div>
-      <div class="stat"><span class="k">Sound</span><span class="v">Tech House / Groove</span></div>
-      <div class="stat"><span class="k">Sets Played</span><span class="v">150+</span></div>
+      <div class="stat"><span class="k">Sound</span><span class="v">Psyc House / Groove</span></div>
+      <div class="stat"><span class="k">Sets Played</span><span class="v">30</span></div>
       <div class="stat"><span class="k">Avg Set Length</span><span class="v">3 Hours</span></div>
     </div>
   </div>
@@ -305,21 +304,6 @@
     <div class="status open">Tickets Open</div>
     <a class="tix" href="#">Tickets</a>
   </div>
-  <div class="date-row">
-    <div class="d">TBA<small>2026</small></div>
-    <div class="venue">Venue Name<span class="city">City, Country</span></div>
-    <div class="status">Sold Out</div>
-    <a class="tix" href="#">Details</a>
-  </div>
-  <div class="date-row">
-    <div class="d">TBA<small>2026</small></div>
-    <div class="venue">Venue Name<span class="city">City, Country</span></div>
-    <div class="status open">RSVP</div>
-    <a class="tix" href="#">Tickets</a>
-  </div>
-
-  <p class="more-note">Replace the rows above with your real dates, venues, and ticket links — this section is placeholder content. New playdates announced first through the mailing list and socials below.</p>
-</section>
 
 <footer id="contact">
   <div class="eyebrow">04 — Get In Touch</div>
@@ -327,8 +311,8 @@
     <div>
       <h2>Booking &<br>Business</h2>
       <ul class="contact-list">
-        <li><span class="k">Booking / Playdates</span><a href="mailto:booking@velcrounderground.com">booking@velcrounderground.com</a></li>
-        <li><span class="k">General / Press</span><a href="mailto:hello@velcrounderground.com">hello@velcrounderground.com</a></li>
+        <li><span class="k">Booking / Playdates</span><a href="mailto:velcrounderground1@gmail.com">velcrounderground1@gmail.com</a></li>
+        <li><span class="k">General / Press</span><a href="mailto:velcrounderground1@gmail.com">velcrounderground1@gmail.com</a></li>
       </ul>
       <div class="socials">
         <a href="#">Instagram</a>
@@ -338,7 +322,7 @@
     </div>
     <div>
       <p style="color:var(--muted); font-size:13px; line-height:1.8;">
-        For booking inquiries, please include the venue, date, city, and expected room capacity. We reply to every real offer — usually after dark.
+        For booking inquiries, please include the venue, date, city, and payment please. We reply to every real offer — usually at sunrise.
       </p>
     </div>
   </div>
@@ -368,3 +352,4 @@
 
 </body>
 </html>
+
